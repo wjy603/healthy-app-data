@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "title": "鲜虾牛油果沙拉",
+    "description": "富含蛋白质和健康脂肪的清爽沙拉，适合夏日轻食",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+    "calories": 320,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 22,
+    "readyInMinutes": 15,
+    "difficulty": "简单",
+    "category": "沙拉"
+  },
+  {
+    "id": "2",
+    "title": "烤鸡胸配时蔬", 
+    "description": "低脂高蛋白的健身餐，搭配多种新鲜蔬菜",
+    "imageUrl": "https://images.unsplash.com/photo-1606755962773-d324e3833241?w=400",
+    "calories": 380,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15,
+    "readyInMinutes": 25,
+    "difficulty": "简单",
+    "category": "主菜"
+  },
+  {
+    "id": "3",
+    "title": "燕麦水果杯",
+    "description": "营养丰富的早餐选择，提供持久能量",
+    "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400", 
+    "calories": 280,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8,
+    "readyInMinutes": 5,
+    "difficulty": "简单",
+    "category": "早餐"
+  },
+  {
+    "id": "4", 
+    "title": "番茄鸡蛋面",
+    "description": "经典中式健康面食，家常美味",
+    "imageUrl": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=400",
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60, 
+    "fat": 12,
+    "readyInMinutes": 20,
+    "difficulty": "简单",
+    "category": "主食"
+  },
+  {
+    "id": "5",
+    "title": "三文鱼蔬菜卷",
+    "description": "富含Omega-3的健康选择，口感清新",
+    "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
+    "calories": 290,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 12,
+    "readyInMinutes": 20,
+    "difficulty": "中等",
+    "category": "主菜"
+  },
+  {
+    "id": "6",
+    "title": "希腊酸奶果仁",
+    "description": "高蛋白零食，满足口腹之欲",
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400",
+    "calories": 210,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 10,
+    "readyInMinutes": 2,
+    "difficulty": "简单", 
+    "category": "零食"
+  }
+]
